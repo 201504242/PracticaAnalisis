@@ -51,3 +51,7 @@
   type='video/ogg; codecs="theora, vorbis"'>
 </source>
 </video>
+
+#Revision de la buscar cancion#
+#201504242#
+<!-- Revision del archivo playlist, no se detecto ningun problema 201503368
