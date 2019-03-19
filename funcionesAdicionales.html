@@ -13,6 +13,10 @@ function reproduccionAleatoria(track) {
    source.setAttribute("id", "reproductorSource")
    nuevo_audio.appendChild(source)
    audio_padre.appendChild(nuevo_audio)}
+   #Revision de la funcion reproduccionAleatoria#
+   #201503368#
+
+
 function reproduccionOrdenada() {
          var select = document.getElementById("selectTrack")
          var path = select.options[0].getAttribute("path")
@@ -26,6 +30,8 @@ function reproduccionOrdenada() {
    nuevo_audio.appendChild(source)
    padre = document.getElementById("reproductorBox")
    padre.appendChild(nuevo_audio)
+   #Revision de la funcion reproduccionOrdenada#
+   #201503368#
 }
 
 function reproduccionSiguiente(argument) {
@@ -42,3 +48,6 @@ function reproduccionSiguiente(argument) {
 </select>
 <script>cargarReproductor();</script>
 }
+
+#Se han revisado todas las funciones del archivo y no se detecto ningun problema, 201503368#
+
