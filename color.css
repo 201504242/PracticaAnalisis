@@ -14,6 +14,7 @@ body{
         color:#FFF;
         text-align:right;
 }
+# revision registrar 201503368#
  
 #envoltura{
         position:absolute;
@@ -23,7 +24,7 @@ body{
     margin-left:-165px;
     margin-top: -210px;
     width: 330px;
- 
+ # revision envoltura 201503368#
 }
  
 #contenedor{
@@ -37,7 +38,8 @@ body{
     -webkit-border-radius:5px;
     -moz-border-radius:10px;
     border-radius:10px;
-
+}
+# revision contenedor 201503368#
     #cabecera{
     /linea azul que separa logo/
     border-bottom: 5px solid #333;
@@ -47,7 +49,7 @@ body{
     line-height:50px;
     text-align:center;
 }
-
+# revision  cabecera 201503368#
 #cabecera{
     /linea azul que separa logo/
     border-bottom: 5px solid #333;
@@ -65,7 +67,7 @@ body{
     border-width: 2px 0;
     padding:15px 35px;
 }
- 
+ # revision cuerpo 201503368#
 label{
     color: #666;
     font-weight: bold
@@ -95,3 +97,6 @@ input#contrasenia{
  
 }
 }
+
+
+# Revision archivo color, no se detecto ningun problema 201503368 #
