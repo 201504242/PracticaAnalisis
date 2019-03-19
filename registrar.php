@@ -46,3 +46,5 @@ if(isset($_SESSION['session']))
         </div><!-- fin contenedor -->
     </div><!--fin envoltura-->
 </body>
+
+<!-- Revision del archivo registrar, no se detecto ningun problema 201503368
